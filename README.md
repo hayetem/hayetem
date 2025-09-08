@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**hayetem/hayetem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi 👋, I'm Hayetem
+I'm an embedded systems enthusiast passionate about IoT, AI, and robotics.
+- 🔭 Currently working on: smart embedded solutions  
+- 🌱 Learning more about: AI on edge devices & ROS  
+- ⚡ Fun fact: I’ve been coding since high school with Python  
+### 🚀 Featured Projects
+- [Smart Water Leak Detection System](https://github.com/yourrepo)  
+- [Voice-controlled Smart Home](https://github.com/yourrepo)  
+- [Driver Fatigue Detection AI](https://github.com/yourrepo)
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
